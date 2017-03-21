@@ -1,0 +1,14 @@
+{
+  "name": "tragedian/tumblrdownloadr.php",
+  "description": "Download Tumblr images.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+	{
+	  "name": "Tragedian"
+	}
+  ],
+  "require": {
+    "tumblr/tumblr": "^0.2.0"
+  }
+}
